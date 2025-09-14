@@ -1,0 +1,5 @@
+{
+  "name": "PDF Powerhouse",
+  "description": "A comprehensive web-based tool for managing PDF documents. Features include merging, splitting, watermarking, text extraction (OCR), and format conversion. Powered by React and Gemini AI.",
+  "requestFramePermissions": []
+}
